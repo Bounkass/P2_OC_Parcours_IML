@@ -3,9 +3,9 @@
 ## Projet 2 du cursus Ingénieur Machine Learning OpenClassrooms - Concevez une application au service de la santé publique
 L'agence "Santé publique France" a lancé un appel à projets pour trouver des idées innovantes d’applications en lien avec l'alimentation. Vous souhaitez y participer et proposer une idée d’application.
 
-Les données Open Food Fact sont disponibles sur le site officieln les variables sont définies à l'adresse : https://world.openfoodfacts.org/data/data-fields.txt
+Les données Open Food Fact sont disponibles et téléchargeables depuis la page https://world.openfoodfacts.org/data. Les variables sont définies à l'adresse : https://world.openfoodfacts.org/data/data-fields.txt
 
-Les champs sont séparés en quatre sections :
+Les champs sont séparés en quatre sections:
 
 Les informations générales sur la fiche du produit : nom, date de modification, etc.
 

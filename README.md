@@ -7,13 +7,13 @@ Les données Open Food Fact sont disponibles et téléchargeables depuis la page
 
 Les champs sont séparés en quatre sections:
 
-Les informations générales sur la fiche du produit : nom, date de modification, etc.
+- Les informations générales sur la fiche du produit : nom, date de modification, etc.
 
-Un ensemble de tags : catégorie du produit, localisation, origine, etc.
+- Un ensemble de tags : catégorie du produit, localisation, origine, etc.
 
-Les ingrédients composant les produits et leurs additifs éventuels.
+- Les ingrédients composant les produits et leurs additifs éventuels.
 
-Des informations nutritionnelles : quantité en grammes d’un nutriment pour 100 grammes du produit.
+- Des informations nutritionnelles : quantité en grammes d’un nutriment pour 100 grammes du produit.
 
 Compétences développées
 
